@@ -1,0 +1,2300 @@
+ID: 3
+Nombre: Nombre3
+Programa: LIC-EJAD-12
+Cargos: 9426
+Pagado: 4730
+Saldo: 4696
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 11
+Nombre: Nombre11
+Programa: MAE-EDUC-15
+Cargos: 12097.43
+Pagado: 12614.43
+Saldo: -587.51
+Saldo Vencido: -587.51
+NCV: 1
+
+
+ID: 14
+Nombre: Nombre14
+Programa: LIC-EJDE-17
+Cargos: 8508
+Pagado: 4254.8
+Saldo: 4253.2
+Saldo Vencido: 0.1
+NCV: 1
+
+
+ID: 24
+Nombre: Nombre24
+Programa: LIC-DIGD-10
+Cargos: 17730
+Pagado: 9367.5
+Saldo: 8362.5
+Saldo Vencido: 750
+NCV: 1
+
+
+ID: 27
+Nombre: Nombre27
+Programa: LIC-ADME-15
+Cargos: 18225.48
+Pagado: 17581.23
+Saldo: 0.77
+Saldo Vencido: 0.48
+NCV: 1
+
+
+ID: 31
+Nombre: Nombre31
+Programa: LIC-SIIN-10C
+Cargos: 26795
+Pagado: 23363
+Saldo: 3432
+Saldo Vencido: 0.48
+NCV: 1
+
+
+ID: 39
+Nombre: Nombre39
+Programa: LIC-EJCO-17
+Cargos: 9732.52
+Pagado: 4968.52
+Saldo: 4764
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 43
+Nombre: Nombre43
+Programa: LIC-DAEM-15
+Cargos: 16965
+Pagado: 8687
+Saldo: 8278
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 45
+Nombre: Nombre45
+Programa: LIC-PSIO-15
+Cargos: 16965
+Pagado: 8343.9
+Saldo: 8621.1
+Saldo Vencido: 750
+NCV: 1
+
+
+ID: 46
+Nombre: Nombre46
+Programa: LIC-ITIC-15
+Cargos: 13965
+Pagado: 7187
+Saldo: 6778
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 48
+Nombre: Nombre48
+Programa: LIC-COFI-15
+Cargos: 16965
+Pagado: 8687
+Saldo: 8278
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 50
+Nombre: Nombre50
+Programa: LIC-EJME-17
+Cargos: 12528
+Pagado: 4764
+Saldo: 7764
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 54
+Nombre: Nombre54
+Programa: LIC-EJDE-17
+Cargos: 9528
+Pagado: 4764
+Saldo: 4764
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 57
+Nombre: Nombre57
+Programa: LIC-COFI-15
+Cargos: 21033
+Pagado: 10044
+Saldo: 10989
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 58
+Nombre: Nombre58
+Programa: LIC-DERE-15
+Cargos: 16965
+Pagado: 8687
+Saldo: 8278
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 63
+Nombre: Nombre63
+Programa: LIC-EJDE-17
+Cargos: 12528
+Pagado: 4764
+Saldo: 7764
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 64
+Nombre: Nombre64
+Programa: LIC-EJCO-17
+Cargos: 12528
+Pagado: 6264
+Saldo: 6264
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 66
+Nombre: Nombre66
+Programa: LIC-EJCO-17
+Cargos: 13956
+Pagado: 6740
+Saldo: 7216
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 69
+Nombre: Nombre69
+Programa: LIC-EJDE-17
+Cargos: 12962
+Pagado: 5570
+Saldo: 7392
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 79
+Nombre: Nombre79
+Programa: LIC-COFI-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 82
+Nombre: Nombre82
+Programa: MAE-MERD-15
+Cargos: 10162.17
+Pagado: 2596.17
+Saldo: 7566
+Saldo Vencido: 2522
+NCV: 1
+
+
+ID: 85
+Nombre: Nombre85
+Programa: LIC-DERE-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 92
+Nombre: Nombre92
+Programa: LIC-CTCO-18
+Cargos: 13882
+Pagado: 7284
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 93
+Nombre: Nombre93
+Programa: LIC-ADME-18
+Cargos: 14044
+Pagado: 7146
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 94
+Nombre: Nombre94
+Programa: LIC-DSGD-18
+Cargos: 13882
+Pagado: 13289.01
+Saldo: 0.11
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 97
+Nombre: Nombre97
+Programa: LIC-DERE-18
+Cargos: 14044
+Pagado: 7146
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 99
+Nombre: Nombre99
+Programa: LIC-EDFI-18
+Cargos: 14044
+Pagado: 7146
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 100
+Nombre: Nombre100
+Programa: LIC-MEES-18
+Cargos: 13796.89
+Pagado: 7198.89
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 114
+Nombre: Nombre114
+Programa: LIC-COFI-18
+Cargos: 13791
+Pagado: 7097
+Saldo: 6694
+Saldo Vencido: 0.07
+NCV: 1
+
+
+ID: 149
+Nombre: Nombre149
+Programa: LIC-ADTU-10
+Cargos: 14287
+Pagado: 8246.8
+Saldo: 6040.2
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 176
+Nombre: Nombre176
+Programa: LIC-MEES-18
+Cargos: 14287
+Pagado: 9892.8
+Saldo: 4394.2
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 202
+Nombre: Nombre202
+Programa: MAE-EDUC-15
+Cargos: 15245.74
+Pagado: 3893.74
+Saldo: 11352
+Saldo Vencido: 3784
+NCV: 1
+
+
+ID: 212
+Nombre: Nombre212
+Programa: MAE-JUIC-15
+Cargos: 15136
+Pagado: 3784
+Saldo: 11352
+Saldo Vencido: 3784
+NCV: 1
+
+
+ID: 213
+Nombre: Nombre213
+Programa: LIC-EJDE-17
+Cargos: 11361
+Pagado: 5405
+Saldo: 5956
+Saldo Vencido: 0.1
+NCV: 1
+
+
+ID: 239
+Nombre: Nombre239
+Programa: LIC-DAEM-15
+Cargos: 16965
+Pagado: 14215.69
+Saldo: 2250
+Saldo Vencido: 750
+NCV: 1
+
+
+ID: 240
+Nombre: Nombre240
+Programa: LIC-EJDE-17
+Cargos: 12828
+Pagado: 6564
+Saldo: 6264
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 241
+Nombre: Nombre241
+Programa: LIC-EJCO-17
+Cargos: 11097.09
+Pagado: 6333.09
+Saldo: 4764
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 244
+Nombre: Nombre244
+Programa: LIC-EJCO-17
+Cargos: 13956
+Pagado: 5240
+Saldo: 8716
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 245
+Nombre: Nombre245
+Programa: LIC-EJAD-17
+Cargos: 13104
+Pagado: 7996.22
+Saldo: 5107.78
+Saldo Vencido: 750
+NCV: 1
+
+
+ID: 247
+Nombre: Nombre247
+Programa: LIC-EJME-17
+Cargos: 9528
+Pagado: 4765
+Saldo: 4763
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 248
+Nombre: Nombre248
+Programa: LIC-EJAD-17
+Cargos: 9828
+Pagado: 9398
+Saldo: 1.33
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 250
+Nombre: Nombre250
+Programa: LIC-COFI-15
+Cargos: 13965
+Pagado: 7187
+Saldo: 6778
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 254
+Nombre: Nombre254
+Programa: LIC-EJDE-17
+Cargos: 12528
+Pagado: 6264
+Saldo: 6264
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 257
+Nombre: Nombre257
+Programa: LIC-DSGD-15
+Cargos: 17275
+Pagado: 16650
+Saldo: 1.57
+Saldo Vencido: 0.47
+NCV: 1
+
+
+ID: 260
+Nombre: Nombre260
+Programa: LIC-EJCO-17
+Cargos: 9992.72
+Pagado: 4850.72
+Saldo: 5142
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 262
+Nombre: Nombre262
+Programa: LIC-EJAD-17
+Cargos: 14143
+Pagado: 5143.2
+Saldo: 8999.8
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 263
+Nombre: Nombre263
+Programa: LIC-PSIO-15
+Cargos: 14575
+Pagado: 7647
+Saldo: 6928
+Saldo Vencido: 0.47
+NCV: 1
+
+
+ID: 268
+Nombre: Nombre268
+Programa: LIC-DERE-18
+Cargos: 14332
+Pagado: 7434
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 270
+Nombre: Nombre270
+Programa: LIC-CTCO-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 271
+Nombre: Nombre271
+Programa: LIC-DSGD-18
+Cargos: 14483.38
+Pagado: 7885.38
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 272
+Nombre: Nombre272
+Programa: LIC-CTCO-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 274
+Nombre: Nombre274
+Programa: LIC-CTCO-18
+Cargos: 14044
+Pagado: 7146
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 281
+Nombre: Nombre281
+Programa: LIC-COFI-18
+Cargos: 13689.68
+Pagado: 7091.68
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 288
+Nombre: Nombre288
+Programa: LIC-COFI-18
+Cargos: 14073
+Pagado: 7175.89
+Saldo: 6897.11
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 290
+Nombre: Nombre290
+Programa: LIC-DSGD-18
+Cargos: 14265.68
+Pagado: 7667.68
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 306
+Nombre: Nombre306
+Programa: LIC-DERE-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 310
+Nombre: Nombre310
+Programa: LIC-COFI-18
+Cargos: 14044
+Pagado: 7146
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 319
+Nombre: Nombre319
+Programa: LIC-COFI-18
+Cargos: 10980
+Pagado: 6160
+Saldo: 4820
+Saldo Vencido: 0.07
+NCV: 1
+
+
+ID: 341
+Nombre: Nombre341
+Programa: LIC-ADME-18
+Cargos: 14578
+Pagado: 13624.42
+Saldo: 450.29
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 342
+Nombre: Nombre342
+Programa: LIC-COFI-18
+Cargos: 14290
+Pagado: 13336.81
+Saldo: 450
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 407
+Nombre: Nombre407
+Programa: LIC-EJAD-17
+Cargos: 12528
+Pagado: 6264
+Saldo: 6264
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 412
+Nombre: Nombre412
+Programa: LIC-EJCO-17
+Cargos: 8572
+Pagado: 4286
+Saldo: 4286
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 415
+Nombre: Nombre415
+Programa: LIC-DERE-15
+Cargos: 16965
+Pagado: 8687
+Saldo: 8278
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 423
+Nombre: Nombre423
+Programa: LIC-DIGD-10
+Cargos: 14730
+Pagado: 7580
+Saldo: 7150
+Saldo Vencido: 0.48
+NCV: 1
+
+
+ID: 437
+Nombre: Nombre437
+Programa: LIC-CTCO-15
+Cargos: 16965
+Pagado: 8755.65
+Saldo: 8209.35
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 439
+Nombre: Nombre439
+Programa: LIC-EJCO-17
+Cargos: 12927.52
+Pagado: 6664.02
+Saldo: 6263.5
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 440
+Nombre: Nombre440
+Programa: LIC-ITIC-15
+Cargos: 19351
+Pagado: 18602.99
+Saldo: 0.47
+Saldo Vencido: 0.47
+NCV: 1
+
+
+ID: 441
+Nombre: Nombre441
+Programa: LIC-CTCO-15
+Cargos: 13965
+Pagado: 13356.02
+Saldo: 0.34
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 445
+Nombre: Nombre445
+Programa: LIC-ADME-15
+Cargos: 17075.13
+Pagado: 8797.79
+Saldo: 8277.34
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 446
+Nombre: Nombre446
+Programa: LIC-EJDE-17
+Cargos: 11025.07
+Pagado: 5309.37
+Saldo: 5715.7
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 449
+Nombre: Nombre449
+Programa: LIC-EJAD-17
+Cargos: 9528
+Pagado: 4764
+Saldo: 4764
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 451
+Nombre: Nombre451
+Programa: LIC-ADME-18
+Cargos: 13965
+Pagado: 7187
+Saldo: 6778
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 453
+Nombre: Nombre453
+Programa: LIC-MEES-15
+Cargos: 16965
+Pagado: 8687
+Saldo: 8278
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 462
+Nombre: Nombre462
+Programa: LIC-DERE-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 466
+Nombre: Nombre466
+Programa: LIC-EJCO-17
+Cargos: 10277.56
+Pagado: 5135.56
+Saldo: 5142
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 470
+Nombre: Nombre470
+Programa: LIC-EJDE-17
+Cargos: 8855
+Pagado: 4601
+Saldo: 4254
+Saldo Vencido: 0.1
+NCV: 1
+
+
+ID: 481
+Nombre: Nombre481
+Programa: LIC-DAEM-15
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 482
+Nombre: Nombre482
+Programa: LIC-DSGD-18
+Cargos: 13797.24
+Pagado: 7200.13
+Saldo: 6597.11
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 483
+Nombre: Nombre483
+Programa: LIC-COFI-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 486
+Nombre: Nombre486
+Programa: LIC-DSGD-18
+Cargos: 13594
+Pagado: 13000.99
+Saldo: 0.11
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 489
+Nombre: Nombre489
+Programa: LIC-DERE-18
+Cargos: 16270
+Pagado: 8272
+Saldo: 7998
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 490
+Nombre: Nombre490
+Programa: LIC-DERE-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 494
+Nombre: Nombre494
+Programa: LIC-COFI-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 503
+Nombre: Nombre503
+Programa: LIC-DAEM-15
+Cargos: 14290
+Pagado: 13335.8
+Saldo: 450.91
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 508
+Nombre: Nombre508
+Programa: LIC-ADME-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 513
+Nombre: Nombre513
+Programa: LIC-ADTU-10
+Cargos: 14044
+Pagado: 7146
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 517
+Nombre: Nombre517
+Programa: MAE-JUIC-15
+Cargos: 15424
+Pagado: 6772
+Saldo: 11352
+Saldo Vencido: 3784
+NCV: 1
+
+
+ID: 534
+Nombre: Nombre534
+Programa: LIC-DERE-18
+Cargos: 14290
+Pagado: 12718.41
+Saldo: 1127.51
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 548
+Nombre: Nombre548
+Programa: LIC-DERE-18
+Cargos: 14287
+Pagado: 12688.79
+Saldo: 1124.52
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 566
+Nombre: Nombre566
+Programa: LIC-COFI-18
+Cargos: 14290
+Pagado: 13544.59
+Saldo: 450
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 618
+Nombre: Nombre618
+Programa: LIC-DIGD-10
+Cargos: 15077
+Pagado: 7927
+Saldo: 7150
+Saldo Vencido: 0.48
+NCV: 1
+
+
+ID: 625
+Nombre: Nombre625
+Programa: LIC-CTCO-10C
+Cargos: 19650
+Pagado: 9640
+Saldo: 10010
+Saldo Vencido: 0.48
+NCV: 1
+
+
+ID: 632
+Nombre: Nombre632
+Programa: LIC-DERE-15
+Cargos: 18315
+Pagado: 7637
+Saldo: 8284
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 634
+Nombre: Nombre634
+Programa: LIC-MEES-15
+Cargos: 16965
+Pagado: 8687
+Saldo: 8278
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 639
+Nombre: Nombre639
+Programa: LIC-MEES-15
+Cargos: 14096.88
+Pagado: 8069.54
+Saldo: 6777.34
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 641
+Nombre: Nombre641
+Programa: LIC-EJDE-17
+Cargos: 12528
+Pagado: 6264
+Saldo: 6264
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 643
+Nombre: Nombre643
+Programa: LIC-DERE-15
+Cargos: 16965
+Pagado: 8687
+Saldo: 8278
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 648
+Nombre: Nombre648
+Programa: LIC-EJME-17
+Cargos: 9528
+Pagado: 4764
+Saldo: 4764
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 650
+Nombre: Nombre650
+Programa: LIC-DSGD-15
+Cargos: 18315
+Pagado: 9137
+Saldo: 9178
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 653
+Nombre: Nombre653
+Programa: LIC-DERE-18
+Cargos: 13796.89
+Pagado: 7198.89
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 654
+Nombre: Nombre654
+Programa: LIC-ADME-15
+Cargos: 19275
+Pagado: 12347
+Saldo: 6928
+Saldo Vencido: 0.47
+NCV: 1
+
+
+ID: 655
+Nombre: Nombre655
+Programa: LIC-EJAD-17
+Cargos: 9918.14
+Pagado: 4776.96
+Saldo: 5141.18
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 660
+Nombre: Nombre660
+Programa: LIC-EJDE-17
+Cargos: 8747.26
+Pagado: 8361.52
+Saldo: 0.18
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 663
+Nombre: Nombre663
+Programa: LIC-DSGD-15
+Cargos: 17275
+Pagado: 8847
+Saldo: 8428
+Saldo Vencido: 0.47
+NCV: 1
+
+
+ID: 666
+Nombre: Nombre666
+Programa: LIC-DERE-18
+Cargos: 13794.79
+Pagado: 7196.79
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 670
+Nombre: Nombre670
+Programa: LIC-DERE-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 673
+Nombre: Nombre673
+Programa: LIC-COFI-18
+Cargos: 13742.22
+Pagado: 7144.22
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 675
+Nombre: Nombre675
+Programa: LIC-EDFI-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 685
+Nombre: Nombre685
+Programa: LIC-DERE-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 709
+Nombre: Nombre709
+Programa: LIC-ADTU-10
+Cargos: 14241
+Pagado: 13339.01
+Saldo: 300.07
+Saldo Vencido: 0.07
+NCV: 1
+
+
+ID: 720
+Nombre: Nombre720
+Programa: LIC-DSGD-18
+Cargos: 14684
+Pagado: 13729.8
+Saldo: 450.91
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 735
+Nombre: Nombre735
+Programa: LIC-COFI-18
+Cargos: 14290
+Pagado: 13495.81
+Saldo: 450
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 736
+Nombre: Nombre736
+Programa: LIC-COFI-18
+Cargos: 14290
+Pagado: 12777.52
+Saldo: 1127.61
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 762
+Nombre: Nombre762
+Programa: MAE-MADN-15
+Cargos: 15588
+Pagado: 15175.02
+Saldo: -0.12
+Saldo Vencido: -0.12
+NCV: 1
+
+
+ID: 793
+Nombre: Nombre793
+Programa: LIC-EJDE-17
+Cargos: 8400.47
+Pagado: 4647.47
+Saldo: 3753
+Saldo Vencido: 834
+NCV: 1
+
+
+ID: 794
+Nombre: Nombre794
+Programa: MAE-EDUC-15
+Cargos: 12040
+Pagado: 11452.36
+Saldo: 587.64
+Saldo Vencido: 0.04
+NCV: 1
+
+
+ID: 799
+Nombre: Nombre799
+Programa: LIC-EJAD-17
+Cargos: 9528
+Pagado: 4764
+Saldo: 4764
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 800
+Nombre: Nombre800
+Programa: MAE-JUIC-15
+Cargos: 15136
+Pagado: 3784
+Saldo: 11352
+Saldo Vencido: 3784
+NCV: 1
+
+
+ID: 802
+Nombre: Nombre802
+Programa: LIC-EJDE-17
+Cargos: 6528
+Pagado: 2381.5
+Saldo: 4146.5
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 808
+Nombre: Nombre808
+Programa: LIC-ADME-15
+Cargos: 17275
+Pagado: 8847
+Saldo: 8428
+Saldo Vencido: 0.47
+NCV: 1
+
+
+ID: 814
+Nombre: Nombre814
+Programa: LIC-PSIO-15
+Cargos: 14730
+Pagado: 7580
+Saldo: 7150
+Saldo Vencido: 0.48
+NCV: 1
+
+
+ID: 821
+Nombre: Nombre821
+Programa: LIC-DIGD-10
+Cargos: 15164.94
+Pagado: 8300.94
+Saldo: 6864
+Saldo Vencido: 0.48
+NCV: 1
+
+
+ID: 824
+Nombre: Nombre824
+Programa: LIC-CTCO-10C
+Cargos: 15651
+Pagado: 7887
+Saldo: 7764
+Saldo Vencido: 0.48
+NCV: 1
+
+
+ID: 830
+Nombre: Nombre830
+Programa: LIC-EJDE-15
+Cargos: 10767
+Pagado: 6762.5
+Saldo: 4004.5
+Saldo Vencido: 633
+NCV: 1
+
+
+ID: 833
+Nombre: Nombre833
+Programa: LIC-DERE-15
+Cargos: 19965
+Pagado: 7187
+Saldo: 12778
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 836
+Nombre: Nombre836
+Programa: LIC-ADME-15
+Cargos: 20808
+Pagado: 9936
+Saldo: 10872
+Saldo Vencido: 0.07
+NCV: 1
+
+
+ID: 839
+Nombre: Nombre839
+Programa: LIC-DERE-15
+Cargos: 17265
+Pagado: 16656.02
+Saldo: 0.34
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 844
+Nombre: Nombre844
+Programa: LIC-ADME-15
+Cargos: 16965
+Pagado: 9026.35
+Saldo: 7938.65
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 845
+Nombre: Nombre845
+Programa: LIC-COFI-15
+Cargos: 16965
+Pagado: 8687
+Saldo: 8278
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 846
+Nombre: Nombre846
+Programa: LIC-COFI-15
+Cargos: 16965
+Pagado: 8687
+Saldo: 8278
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 852
+Nombre: Nombre852
+Programa: LIC-ADTU-10
+Cargos: 13965
+Pagado: 13356.02
+Saldo: 0.34
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 853
+Nombre: Nombre853
+Programa: LIC-EJDE-17
+Cargos: 15383
+Pagado: 7215
+Saldo: 8168
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 854
+Nombre: Nombre854
+Programa: LIC-EJDE-17
+Cargos: 17098.96
+Pagado: 5742.96
+Saldo: 148
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 856
+Nombre: Nombre856
+Programa: LIC-EJCO-17
+Cargos: 12528
+Pagado: 12099.99
+Saldo: 0.5
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 857
+Nombre: Nombre857
+Programa: LIC-CTCO-15
+Cargos: 15025
+Pagado: 8097
+Saldo: 6928
+Saldo Vencido: 0.47
+NCV: 1
+
+
+ID: 862
+Nombre: Nombre862
+Programa: LIC-EJDE-17
+Cargos: 8314
+Pagado: 8185.99
+Saldo: 0.18
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 866
+Nombre: Nombre866
+Programa: LIC-CTCO-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 872
+Nombre: Nombre872
+Programa: LIC-EDFI-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 877
+Nombre: Nombre877
+Programa: LIC-COFI-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 884
+Nombre: Nombre884
+Programa: LIC-DAEM-15
+Cargos: 13594
+Pagado: 13000.99
+Saldo: 0.11
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 889
+Nombre: Nombre889
+Programa: LIC-DERE-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 894
+Nombre: Nombre894
+Programa: MAE-JUIC-15
+Cargos: 15136
+Pagado: 3784
+Saldo: 11352
+Saldo Vencido: 3784
+NCV: 1
+
+
+ID: 910
+Nombre: Nombre910
+Programa: LIC-MEES-18
+Cargos: 16562.45
+Pagado: 8531.38
+Saldo: 8031.07
+Saldo Vencido: 0.07
+NCV: 1
+
+
+ID: 916
+Nombre: Nombre916
+Programa: LIC-CTCO-18
+Cargos: 14091
+Pagado: 7397
+Saldo: 6694
+Saldo Vencido: 0.07
+NCV: 1
+
+
+ID: 928
+Nombre: Nombre928
+Programa: LIC-DERE-18
+Cargos: 14290
+Pagado: 12747.54
+Saldo: 1127.98
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 970
+Nombre: Nombre970
+Programa: MAE-EDUC-15
+Cargos: 12040
+Pagado: 14097
+Saldo: -2057
+Saldo Vencido: -2057
+NCV: 1
+
+
+ID: 980
+Nombre: Nombre980
+Programa: MAE-DEMP-10
+Cargos: 15588
+Pagado: 15243.99
+Saldo: -0.24
+Saldo Vencido: -0.24
+NCV: 1
+
+
+ID: 1023
+Nombre: Nombre1023
+Programa: LIC-COFI-15
+Cargos: 18871.94
+Pagado: 18261.92
+Saldo: 0.34
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1033
+Nombre: Nombre1033
+Programa: LIC-DIGD-10
+Cargos: 4720.9
+Pagado: 1284
+Saldo: 3437.4
+Saldo Vencido: 1145.8
+NCV: 1
+
+
+ID: 1036
+Nombre: Nombre1036
+Programa: LIC-ADTU-10
+Cargos: 9153
+Pagado: 8844
+Saldo: 0.48
+Saldo Vencido: 0.48
+NCV: 1
+
+
+ID: 1042
+Nombre: Nombre1042
+Programa: LIC-SYSC-18
+Cargos: 17947
+Pagado: 9367
+Saldo: 8580
+Saldo Vencido: 0.48
+NCV: 1
+
+
+ID: 1048
+Nombre: Nombre1048
+Programa: LIC-COFI-15
+Cargos: 17063.29
+Pagado: 7285.29
+Saldo: 9778
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1053
+Nombre: Nombre1053
+Programa: LIC-DAEM-15
+Cargos: 16965
+Pagado: 9293.37
+Saldo: 7671.63
+Saldo Vencido: 750
+NCV: 1
+
+
+ID: 1055
+Nombre: Nombre1055
+Programa: LIC-DSGD-15
+Cargos: 15891
+Pagado: 13932.48
+Saldo: 1350
+Saldo Vencido: 450
+NCV: 1
+
+
+ID: 1057
+Nombre: Nombre1057
+Programa: LIC-COFI-15
+Cargos: 13965
+Pagado: 7187
+Saldo: 6778
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1059
+Nombre: Nombre1059
+Programa: LIC-EJAD-12
+Cargos: 10956
+Pagado: 5240
+Saldo: 5716
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1063
+Nombre: Nombre1063
+Programa: LIC-DSGD-15
+Cargos: 13965
+Pagado: 7187
+Saldo: 6778
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1065
+Nombre: Nombre1065
+Programa: LIC-DERE-15
+Cargos: 15315
+Pagado: 7637
+Saldo: 7678
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1068
+Nombre: Nombre1068
+Programa: LIC-ADTU-10
+Cargos: 15660
+Pagado: 8147.9
+Saldo: 7512.1
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1073
+Nombre: Nombre1073
+Programa: LIC-EJAD-17
+Cargos: 10956
+Pagado: 5240
+Saldo: 5716
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1075
+Nombre: Nombre1075
+Programa: LIC-EJDE-17
+Cargos: 9528
+Pagado: 9098
+Saldo: 1.33
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1076
+Nombre: Nombre1076
+Programa: LIC-EJCO-17
+Cargos: 12528
+Pagado: 6229.2
+Saldo: 6298.8
+Saldo Vencido: 750
+NCV: 1
+
+
+ID: 1079
+Nombre: Nombre1079
+Programa: LIC-EJCO-17
+Cargos: 12528
+Pagado: 6264
+Saldo: 6264
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1093
+Nombre: Nombre1093
+Programa: LIC-CTCO-18
+Cargos: 14251.24
+Pagado: 7353.24
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1098
+Nombre: Nombre1098
+Programa: LIC-DERE-18
+Cargos: 14332
+Pagado: 7434
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1105
+Nombre: Nombre1105
+Programa: LIC-CTCO-18
+Cargos: 13701.21
+Pagado: 7104.1
+Saldo: 6597.11
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1118
+Nombre: Nombre1118
+Programa: LIC-ADME-18
+Cargos: 14044
+Pagado: 6499
+Saldo: 5604
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1128
+Nombre: Nombre1128
+Programa: LIC-ADTU-10
+Cargos: 13796.89
+Pagado: 7198.89
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1133
+Nombre: Nombre1133
+Programa: MAE-MERD-15
+Cargos: 15136
+Pagado: 3784
+Saldo: 11352
+Saldo Vencido: 3784
+NCV: 1
+
+
+ID: 1151
+Nombre: Nombre1151
+Programa: LIC-CTCO-18
+Cargos: 14340
+Pagado: 13284
+Saldo: 450
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 1153
+Nombre: Nombre1153
+Programa: LIC-DSGD-18
+Cargos: 14290
+Pagado: 13396.01
+Saldo: 450
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 1154
+Nombre: Nombre1154
+Programa: LIC-DSGD-18
+Cargos: 14290
+Pagado: 13366.31
+Saldo: 450
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 1156
+Nombre: Nombre1156
+Programa: LIC-CTCO-18
+Cargos: 14290
+Pagado: 13366.15
+Saldo: 450.16
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 1171
+Nombre: Nombre1171
+Programa: LIC-SYSC-18
+Cargos: 14290
+Pagado: 13455.37
+Saldo: 450
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 1226
+Nombre: Nombre1226
+Programa: MAE-DEMP-10
+Cargos: 15136
+Pagado: 3784
+Saldo: 11352
+Saldo Vencido: 3784
+NCV: 1
+
+
+ID: 1234
+Nombre: Nombre1234
+Programa: LIC-ADEM-10C
+Cargos: 1350
+Pagado: 3683
+Saldo: 1350
+Saldo Vencido: 450
+NCV: 1
+
+
+ID: 1239
+Nombre: Nombre1239
+Programa: LIC-ADME-18
+Cargos: 15077
+Pagado: 11503
+Saldo: 3574
+Saldo Vencido: 0.48
+NCV: 1
+
+
+ID: 1242
+Nombre: Nombre1242
+Programa: LIC-DAEM-11
+Cargos: 12488
+Pagado: 0
+Saldo: 12488
+Saldo Vencido: 3122
+NCV: 1
+
+
+ID: 1254
+Nombre: Nombre1254
+Programa: LIC-DSGD-15
+Cargos: 19351
+Pagado: 9539
+Saldo: 9812
+Saldo Vencido: 0.47
+NCV: 1
+
+
+ID: 1256
+Nombre: Nombre1256
+Programa: LIC-EJAD-17
+Cargos: 14488.5
+Pagado: 4764.5
+Saldo: 9724
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1263
+Nombre: Nombre1263
+Programa: LIC-ITIC-15
+Cargos: 13965
+Pagado: 7187
+Saldo: 6778
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1264
+Nombre: Nombre1264
+Programa: LIC-DERE-15
+Cargos: 16965
+Pagado: 12225.39
+Saldo: 4343.07
+Saldo Vencido: 750
+NCV: 1
+
+
+ID: 1267
+Nombre: Nombre1267
+Programa: LIC-DSGD-18
+Cargos: 15999
+Pagado: 7865
+Saldo: 8134
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1269
+Nombre: Nombre1269
+Programa: LIC-EJDE-17
+Cargos: 9528
+Pagado: 4764
+Saldo: 4764
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1270
+Nombre: Nombre1270
+Programa: LIC-EJAD-17
+Cargos: 12528
+Pagado: 6264
+Saldo: 6264
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1271
+Nombre: Nombre1271
+Programa: LIC-EJAD-17
+Cargos: 9528
+Pagado: 4764
+Saldo: 4764
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1272
+Nombre: Nombre1272
+Programa: LIC-EJAD-17
+Cargos: 9528
+Pagado: 4764
+Saldo: 4764
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1273
+Nombre: Nombre1273
+Programa: LIC-EJDE-17
+Cargos: 12640.58
+Pagado: 6376.58
+Saldo: 6264
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1274
+Nombre: Nombre1274
+Programa: LIC-DAEM-15
+Cargos: 16965
+Pagado: 10649
+Saldo: 6316
+Saldo Vencido: 750
+NCV: 1
+
+
+ID: 1275
+Nombre: Nombre1275
+Programa: LIC-EJAD-17
+Cargos: 12528
+Pagado: 6943.4
+Saldo: 5584.6
+Saldo Vencido: 750
+NCV: 1
+
+
+ID: 1276
+Nombre: Nombre1276
+Programa: LIC-MEES-15
+Cargos: 13965
+Pagado: 7187
+Saldo: 6778
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1279
+Nombre: Nombre1279
+Programa: LIC-EJME-17
+Cargos: 9597.07
+Pagado: 9167.81
+Saldo: 429.26
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1283
+Nombre: Nombre1283
+Programa: LIC-EJCO-17
+Cargos: 11739.79
+Pagado: 5953.79
+Saldo: 5786
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 1285
+Nombre: Nombre1285
+Programa: LIC-EJCO-17
+Cargos: 8634.15
+Pagado: 4348.15
+Saldo: 4286
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 1289
+Nombre: Nombre1289
+Programa: LIC-EJME-17
+Cargos: 8572
+Pagado: 4286.02
+Saldo: 4285.98
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 1295
+Nombre: Nombre1295
+Programa: LIC-DERE-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1298
+Nombre: Nombre1298
+Programa: LIC-DERE-18
+Cargos: 13796.89
+Pagado: 7198.89
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1300
+Nombre: Nombre1300
+Programa: LIC-ADTU-10
+Cargos: 14044
+Pagado: 7146
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1304
+Nombre: Nombre1304
+Programa: LIC-DERE-18
+Cargos: 14044
+Pagado: 7146
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1306
+Nombre: Nombre1306
+Programa: LIC-EDFI-18
+Cargos: 11169
+Pagado: 6419
+Saldo: 4750
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1311
+Nombre: Nombre1311
+Programa: LIC-EDFI-18
+Cargos: 14044
+Pagado: 7146
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1327
+Nombre: Nombre1327
+Programa: MAE-JUIC-15
+Cargos: 15424
+Pagado: 6772
+Saldo: 11352
+Saldo Vencido: 3784
+NCV: 1
+
+
+ID: 1357
+Nombre: Nombre1357
+Programa: LIC-DAEM-15
+Cargos: 14617.81
+Pagado: 13664.46
+Saldo: 450
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 1375
+Nombre: Nombre1375
+Programa: LIC-COFI-18
+Cargos: 15462.04
+Pagado: 11788.84
+Saldo: 4249.2
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 1402
+Nombre: Nombre1402
+Programa: LIC-DSGD-18
+Cargos: 14340
+Pagado: 13466
+Saldo: 450
+Saldo Vencido: 150
+NCV: 1
+
+
+ID: 1412
+Nombre: Nombre1412
+Programa: LIC-EJAD-12
+Cargos: 10530
+Pagado: 8631
+Saldo: 1899
+Saldo Vencido: 633
+NCV: 1
+
+
+ID: 1415
+Nombre: Nombre1415
+Programa: LIC-EJCO-17
+Cargos: 9597.09
+Pagado: 4833.09
+Saldo: 4764
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1419
+Nombre: Nombre1419
+Programa: MAE-MERD-15
+Cargos: 15245.74
+Pagado: 3893.74
+Saldo: 11352
+Saldo Vencido: 3784
+NCV: 1
+
+
+ID: 1437
+Nombre: Nombre1437
+Programa: LIC-COFI-18
+Cargos: 16583
+Pagado: 9433
+Saldo: 7150
+Saldo Vencido: 0.48
+NCV: 1
+
+
+ID: 1440
+Nombre: Nombre1440
+Programa: LIC-ADME-15
+Cargos: 16965
+Pagado: 8005.65
+Saldo: 8959.35
+Saldo Vencido: 750
+NCV: 1
+
+
+ID: 1442
+Nombre: Nombre1442
+Programa: LIC-COFI-15
+Cargos: 16965
+Pagado: 16356.48
+Saldo: 0.34
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1447
+Nombre: Nombre1447
+Programa: LIC-EJME-17
+Cargos: 17338
+Pagado: 5495.68
+Saldo: 11842.32
+Saldo Vencido: 1286
+NCV: 1
+
+
+ID: 1453
+Nombre: Nombre1453
+Programa: LIC-EJAD-17
+Cargos: 9528
+Pagado: 4764.5
+Saldo: 4763.5
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1454
+Nombre: Nombre1454
+Programa: LIC-CTCO-15
+Cargos: 16965
+Pagado: 8687
+Saldo: 8278
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1455
+Nombre: Nombre1455
+Programa: LIC-DERE-15
+Cargos: 14312
+Pagado: 7534
+Saldo: 6778
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1458
+Nombre: Nombre1458
+Programa: LIC-CTCO-15
+Cargos: 16965
+Pagado: 8687
+Saldo: 8278
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1459
+Nombre: Nombre1459
+Programa: LIC-DERE-15
+Cargos: 16965
+Pagado: 7186.66
+Saldo: 9778.34
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1461
+Nombre: Nombre1461
+Programa: LIC-EJCO-17
+Cargos: 19528
+Pagado: 14764
+Saldo: 4764
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1463
+Nombre: Nombre1463
+Programa: LIC-EJDE-17
+Cargos: 14949
+Pagado: 7014
+Saldo: 7935
+Saldo Vencido: 0.5
+NCV: 1
+
+
+ID: 1467
+Nombre: Nombre1467
+Programa: LIC-ADME-18
+Cargos: 14063.29
+Pagado: 7285.29
+Saldo: 6778
+Saldo Vencido: 0.34
+NCV: 1
+
+
+ID: 1474
+Nombre: Nombre1474
+Programa: LIC-EJDE-17
+Cargos: 13036.2
+Pagado: 6394.2
+Saldo: 6642
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 1475
+Nombre: Nombre1475
+Programa: LIC-EJDE-17
+Cargos: 8572
+Pagado: 4286
+Saldo: 4286
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 1476
+Nombre: Nombre1476
+Programa: LIC-EJDE-17
+Cargos: 11572
+Pagado: 5786.6
+Saldo: 5785.4
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 1478
+Nombre: Nombre1478
+Programa: LIC-EJDE-17
+Cargos: 11809.39
+Pagado: 11422.9
+Saldo: 0.79
+Saldo Vencido: 0.18
+NCV: 1
+
+
+ID: 1481
+Nombre: Nombre1481
+Programa: LIC-EJDE-17
+Cargos: 9452.43
+Pagado: 9069.57
+Saldo: 0.1
+Saldo Vencido: 0.1
+NCV: 1
+
+
+ID: 1487
+Nombre: Nombre1487
+Programa: LIC-MEES-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1510
+Nombre: Nombre1510
+Programa: LIC-COFI-18
+Cargos: 14044
+Pagado: 7146
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1512
+Nombre: Nombre1512
+Programa: LIC-EDFI-18
+Cargos: 14044
+Pagado: 7146
+Saldo: 6898
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1513
+Nombre: Nombre1513
+Programa: LIC-DERE-18
+Cargos: 13594
+Pagado: 6996
+Saldo: 6598
+Saldo Vencido: 0.11
+NCV: 1
+
+
+ID: 1606
+Nombre: Nombre1606
+Programa: LIC-EJCO-17
+Cargos: 60.47
+Pagado: 2145.47
+Saldo: -1745
+Saldo Vencido: -1745
+NCV: 1
+
+
